@@ -1,2 +1,2 @@
-# HTCA
-HTCA Analysis Tools
+# HTCA Database
+Maintenance of analysis tools of the HTCA database (www.htcatlas.org)
