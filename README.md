@@ -1,2 +1,2 @@
 # HTCA Database
-Maintenance of analysis tools of the HTCA database
+Maintenance of analysis tools for the HTCA database
